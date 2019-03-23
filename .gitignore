@@ -1,1 +1,9 @@
-/idea
+# phpstorm project files
+.idea
+
+# composer itself is not needed
+composer.phar
+
+# NPM packages
+/node_modules
+.env
